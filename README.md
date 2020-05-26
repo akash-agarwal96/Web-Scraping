@@ -9,6 +9,7 @@
 * Importing vader-lexicon from SentimentAnalyzer
 * Finding the Polarity Score
 * Comparing the Compound Values and storing it in the Score as positive,negative,neutral review score
+![](dataframe.JPG)
 
 # Data Visualization
 * Import pie chart from matplotlib
