@@ -13,3 +13,5 @@
 # Data Visualization
 * Import pie chart from matplotlib
 * Visualizing the Score column using Pie Chart
+
+![](PieChart.JPG)
